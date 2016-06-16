@@ -8,3 +8,5 @@ But we're going to want to put all the changes together.
 So this is a test repository.  It doesn't have much in it.  It is just some random stuff.
 
 This is another test
+
+We're going to squash this up
